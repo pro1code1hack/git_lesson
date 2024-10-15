@@ -1,1 +1,1 @@
-print(file not empty)
+print("file not empty")
